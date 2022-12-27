@@ -4,7 +4,7 @@
 This project provides example code for how to use BackBox APIs to authenticate to BackBox, select Network and Security infrastructure devices based on IDs from a 3rd party system, select those devices in BackBox, place them in an upgrade job, add an upgrade file to BackBox, and add that file to the upgrade job. 
 
 What you will need to get started
-<li>Intall of BackBox (https://www.backbox.com/request-a-demo/)</li>
+<li>Install of BackBox (https://www.backbox.com/request-a-demo/)</li>
 <li>Add devices and set externail IDs that match the IDs in Devices_To_Upgrade.csv</li>
 <li>A Task Job that utilizes the Cisco -> IOS -> SCP -> Upgrade automation in BackBox. To use the default values in the script you will need to name this job UpgradeJob </li>
 
